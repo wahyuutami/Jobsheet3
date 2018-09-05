@@ -1,0 +1,10 @@
+# Jobsheet3
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/1.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/3.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/4.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/5.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/6.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/7.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/Jurusan.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/Sekolah.PNG)
+![alt text](https://github.com/wahyuutami/Jobsheet3/blob/master/Test.PNG)
